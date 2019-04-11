@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555007697 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\nomina\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
